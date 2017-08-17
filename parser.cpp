@@ -47,7 +47,7 @@ int main()
                 saida << "linguagem(\'" << palavra[i] << "\', " << palavra[1] << ")." << endl;
             }
         } else {
-            saida << "predecessora(\'" << palavra[1] << "\',\'" << palavra[3] << "\')." << endl;
+            saida << "predecessora(\'" << palavra[3] << "\',\'" << palavra[1] << "\')." << endl;
         }
     }
 

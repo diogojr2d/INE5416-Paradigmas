@@ -112,156 +112,156 @@ linguagem('Io', 2003).
 linguagem('Fortran 2003', 2003).
 linguagem('GHC 6.0', 2003).
 
-predecessora('GHC 6.0','Haskell 2010').
-predecessora('C++','Rust').
-predecessora('Erlang','Rust').
-predecessora('OCaml','Rust').
-predecessora('Haskell 98','Rust').
-predecessora('C# 2.0','Rust').
-predecessora('Lua 4.0','Lua 5.0').
-predecessora('Ada 83','Ada 95').
-predecessora('Scheme 84','Scheme R3RS').
-predecessora('PL/I','Pascal').
-predecessora('Algol W','Pascal').
-predecessora('Python 2.0','Python 2.2').
-predecessora('CPL','BCPL').
-predecessora('ML','SML').
-predecessora('Ada','Ada 83').
-predecessora('C++ (ARM)','C++ (ISO)').
-predecessora('Fortran IV','Basic').
-predecessora('Java 5','Java 6').
-predecessora('Smalltalk 76','Smalltalk 78').
-predecessora('SML 90','Mercury').
-predecessora('Prolog','Mercury').
-predecessora('Haskell','Mercury').
-predecessora('Modula-3','Python').
-predecessora('ANSI C','Python').
-predecessora('ABC','Python').
-predecessora('Algol 60','Scheme').
-predecessora('Lisp','Scheme').
-predecessora('Modula','Modula-2').
-predecessora('Pascal','CLU').
-predecessora('Simula 67','CLU').
-predecessora('Common Lisp','CLOS').
-predecessora('ML','Miranda').
-predecessora('Smalltalk 80','AppleScript').
-predecessora('Java','Java 2').
-predecessora('Perl 4','Perl 5').
-predecessora('Python 2.2','Python 2.4').
-predecessora('Lua','Io').
-predecessora('Smalltalk 80','Io').
-predecessora('Scheme MIT','Common Lisp').
-predecessora('Lisp','Common Lisp').
-predecessora('Python','Python 1.5.2').
-predecessora('Fortran I','Fortran II').
-predecessora('C#','D 1.0').
-predecessora('Java','D 1.0').
-predecessora('C 99','D 1.0').
-predecessora('C++','D 1.0').
-predecessora('BCPL','B').
-predecessora('Python 2.4','Python 2.5').
-predecessora('Flow-matic','COBOL').
-predecessora('Smalltalk','Smalltalk 72').
-predecessora('Haskell 98','Swift').
-predecessora('CLU','Swift').
-predecessora('Objective-C','Swift').
-predecessora('C# 2.0','Swift').
-predecessora('D 1.0','Swift').
-predecessora('Ruby','Swift').
-predecessora('Python 2.0','Swift').
-predecessora('Rust','Swift').
-predecessora('Haskell','Gofer').
-predecessora('Algol 58','Algol 60').
-predecessora('Smalltalk 80','Squeak').
-predecessora('Python 2.5','Python 3.0').
-predecessora('C++','C++ (ARM)').
-predecessora('Ada 83','C++ (ARM)').
-predecessora('CLU','C++ (ARM)').
-predecessora('Java 7','Java 8').
-predecessora('Scheme R4RS','Scheme R5RS').
-predecessora('C# 2.0','C# 3.0').
-predecessora('Common Lisp','Erlang').
-predecessora('Prolog','Erlang').
-predecessora('Scheme R3RS','Scheme R4RS').
-predecessora('Lazy ML','Haskell').
-predecessora('Miranda','Haskell').
-predecessora('Common Lisp','Common Lisp (ANSI)').
-predecessora('Smalltalk 74','Smalltalk 76').
-predecessora('COBOL','PL/I').
-predecessora('Algol 60','PL/I').
-predecessora('Fortran IV','PL/I').
-predecessora('Prolog','Prolog ISO').
-predecessora('ANSI C','C 95').
-predecessora('Algol 60','Algol 68').
-predecessora('Pascal AFNOR','Lua').
-predecessora('Perl 4','Lua').
-predecessora('Fortran I','Algol 58').
-predecessora('Algol 60','Algol W').
-predecessora('Algol 60','Simula I').
-predecessora('C++ (ARM)','Oak').
-predecessora('Fortran IV','Fortran 77').
-predecessora('Fortran 2003','Fortress 1.0beta').
-predecessora('Scala','Fortress 1.0beta').
-predecessora('Gofer','Haskell 98').
-predecessora('Haskell','Haskell 98').
-predecessora('Smalltalk 72','Smalltalk 74').
-predecessora('Pascal','Modula').
-predecessora('Java 6','Java 7').
-predecessora('Python 3.0','Python 3.6').
-predecessora('OCaml','Scala').
-predecessora('.NET','Scala').
-predecessora('Java 2','Scala').
-predecessora('Prolog','Life').
-predecessora('Smalltalk 80','Ruby').
-predecessora('Perl 4','Ruby').
-predecessora('Python','Ruby').
-predecessora('Java 2','Java 5').
-predecessora('Java 2','CAL (Open Quark)').
-predecessora('Haskell 98','CAL (Open Quark)').
-predecessora('C 95','C 99').
-predecessora('Simula 67','Eiffel').
-predecessora('Ada 83','Eiffel').
-predecessora('Python 1.5.2','Python 2.0').
-predecessora('B','C').
-predecessora('Algol 68','C').
-predecessora('Scheme','Scheme MIT').
-predecessora('C++','ANSI C').
-predecessora('C (K&R)','ANSI C').
-predecessora('Modula-2','Modula-3').
-predecessora('Haskell 98','GHC 5.00').
-predecessora('Lua','Lua 4.0').
-predecessora('S','R').
-predecessora('Scheme','R').
-predecessora('Common Lisp','R').
-predecessora('Algol 60','CPL').
-predecessora('Smalltalk 80','Objective-C').
-predecessora('C (K&R)','Objective-C').
-predecessora('Perl 5','PHP').
-predecessora('Oak','Java').
-predecessora('Simula 67','Smalltalk').
-predecessora('Fortran 90','Fortran 2003').
-predecessora('Scheme MIT','Scheme 84').
-predecessora('C#','C# 2.0').
-predecessora('C','C (K&R)').
-predecessora('Smalltalk 78','Smalltalk 80').
-predecessora('C (K&R)','C++').
-predecessora('Algol 68','C++').
-predecessora('Simula 67','C++').
-predecessora('Simula I','Simula 67').
-predecessora('GHC 5.00','GHC 6.0').
-predecessora('Java 2','C#').
-predecessora('C++ (ISO)','C#').
-predecessora('Fortran 77','Fortran 90').
-predecessora('CSP','Ada').
-predecessora('Pascal','Ada').
-predecessora('Prolog','CLIPS').
-predecessora('Prolog','Lambda Prolog').
-predecessora('SML','Lambda Prolog').
-predecessora('Fortran II','Fortran IV').
-predecessora('Python 2.0','Go').
-predecessora('C','Go').
-predecessora('CSP','Go').
-predecessora('Smalltalk 80','Go').
-predecessora('Modula-3','Go').
-predecessora('Pascal','Go').
-predecessora('C (K&R)','ANSI C').
+predecessora('Haskell 2010','GHC 6.0').
+predecessora('Rust','C++').
+predecessora('Rust','Erlang').
+predecessora('Rust','OCaml').
+predecessora('Rust','Haskell 98').
+predecessora('Rust','C# 2.0').
+predecessora('Lua 5.0','Lua 4.0').
+predecessora('Ada 95','Ada 83').
+predecessora('Scheme R3RS','Scheme 84').
+predecessora('Pascal','PL/I').
+predecessora('Pascal','Algol W').
+predecessora('Python 2.2','Python 2.0').
+predecessora('BCPL','CPL').
+predecessora('SML','ML').
+predecessora('Ada 83','Ada').
+predecessora('C++ (ISO)','C++ (ARM)').
+predecessora('Basic','Fortran IV').
+predecessora('Java 6','Java 5').
+predecessora('Smalltalk 78','Smalltalk 76').
+predecessora('Mercury','SML 90').
+predecessora('Mercury','Prolog').
+predecessora('Mercury','Haskell').
+predecessora('Python','Modula-3').
+predecessora('Python','ANSI C').
+predecessora('Python','ABC').
+predecessora('Scheme','Algol 60').
+predecessora('Scheme','Lisp').
+predecessora('Modula-2','Modula').
+predecessora('CLU','Pascal').
+predecessora('CLU','Simula 67').
+predecessora('CLOS','Common Lisp').
+predecessora('Miranda','ML').
+predecessora('AppleScript','Smalltalk 80').
+predecessora('Java 2','Java').
+predecessora('Perl 5','Perl 4').
+predecessora('Python 2.4','Python 2.2').
+predecessora('Io','Lua').
+predecessora('Io','Smalltalk 80').
+predecessora('Common Lisp','Scheme MIT').
+predecessora('Common Lisp','Lisp').
+predecessora('Python 1.5.2','Python').
+predecessora('Fortran II','Fortran I').
+predecessora('D 1.0','C#').
+predecessora('D 1.0','Java').
+predecessora('D 1.0','C 99').
+predecessora('D 1.0','C++').
+predecessora('B','BCPL').
+predecessora('Python 2.5','Python 2.4').
+predecessora('COBOL','Flow-matic').
+predecessora('Smalltalk 72','Smalltalk').
+predecessora('Swift','Haskell 98').
+predecessora('Swift','CLU').
+predecessora('Swift','Objective-C').
+predecessora('Swift','C# 2.0').
+predecessora('Swift','D 1.0').
+predecessora('Swift','Ruby').
+predecessora('Swift','Python 2.0').
+predecessora('Swift','Rust').
+predecessora('Gofer','Haskell').
+predecessora('Algol 60','Algol 58').
+predecessora('Squeak','Smalltalk 80').
+predecessora('Python 3.0','Python 2.5').
+predecessora('C++ (ARM)','C++').
+predecessora('C++ (ARM)','Ada 83').
+predecessora('C++ (ARM)','CLU').
+predecessora('Java 8','Java 7').
+predecessora('Scheme R5RS','Scheme R4RS').
+predecessora('C# 3.0','C# 2.0').
+predecessora('Erlang','Common Lisp').
+predecessora('Erlang','Prolog').
+predecessora('Scheme R4RS','Scheme R3RS').
+predecessora('Haskell','Lazy ML').
+predecessora('Haskell','Miranda').
+predecessora('Common Lisp (ANSI)','Common Lisp').
+predecessora('Smalltalk 76','Smalltalk 74').
+predecessora('PL/I','COBOL').
+predecessora('PL/I','Algol 60').
+predecessora('PL/I','Fortran IV').
+predecessora('Prolog ISO','Prolog').
+predecessora('C 95','ANSI C').
+predecessora('Algol 68','Algol 60').
+predecessora('Lua','Pascal AFNOR').
+predecessora('Lua','Perl 4').
+predecessora('Algol 58','Fortran I').
+predecessora('Algol W','Algol 60').
+predecessora('Simula I','Algol 60').
+predecessora('Oak','C++ (ARM)').
+predecessora('Fortran 77','Fortran IV').
+predecessora('Fortress 1.0beta','Fortran 2003').
+predecessora('Fortress 1.0beta','Scala').
+predecessora('Haskell 98','Gofer').
+predecessora('Haskell 98','Haskell').
+predecessora('Smalltalk 74','Smalltalk 72').
+predecessora('Modula','Pascal').
+predecessora('Java 7','Java 6').
+predecessora('Python 3.6','Python 3.0').
+predecessora('Scala','OCaml').
+predecessora('Scala','.NET').
+predecessora('Scala','Java 2').
+predecessora('Life','Prolog').
+predecessora('Ruby','Smalltalk 80').
+predecessora('Ruby','Perl 4').
+predecessora('Ruby','Python').
+predecessora('Java 5','Java 2').
+predecessora('CAL (Open Quark)','Java 2').
+predecessora('CAL (Open Quark)','Haskell 98').
+predecessora('C 99','C 95').
+predecessora('Eiffel','Simula 67').
+predecessora('Eiffel','Ada 83').
+predecessora('Python 2.0','Python 1.5.2').
+predecessora('C','B').
+predecessora('C','Algol 68').
+predecessora('Scheme MIT','Scheme').
+predecessora('ANSI C','C++').
+predecessora('ANSI C','C (K&R)').
+predecessora('Modula-3','Modula-2').
+predecessora('GHC 5.00','Haskell 98').
+predecessora('Lua 4.0','Lua').
+predecessora('R','S').
+predecessora('R','Scheme').
+predecessora('R','Common Lisp').
+predecessora('CPL','Algol 60').
+predecessora('Objective-C','Smalltalk 80').
+predecessora('Objective-C','C (K&R)').
+predecessora('PHP','Perl 5').
+predecessora('Java','Oak').
+predecessora('Smalltalk','Simula 67').
+predecessora('Fortran 2003','Fortran 90').
+predecessora('Scheme 84','Scheme MIT').
+predecessora('C# 2.0','C#').
+predecessora('C (K&R)','C').
+predecessora('Smalltalk 80','Smalltalk 78').
+predecessora('C++','C (K&R)').
+predecessora('C++','Algol 68').
+predecessora('C++','Simula 67').
+predecessora('Simula 67','Simula I').
+predecessora('GHC 6.0','GHC 5.00').
+predecessora('C#','Java 2').
+predecessora('C#','C++ (ISO)').
+predecessora('Fortran 90','Fortran 77').
+predecessora('Ada','CSP').
+predecessora('Ada','Pascal').
+predecessora('CLIPS','Prolog').
+predecessora('Lambda Prolog','Prolog').
+predecessora('Lambda Prolog','SML').
+predecessora('Fortran IV','Fortran II').
+predecessora('Go','Python 2.0').
+predecessora('Go','C').
+predecessora('Go','CSP').
+predecessora('Go','Smalltalk 80').
+predecessora('Go','Modula-3').
+predecessora('Go','Pascal').
+predecessora('ANSI C','C (K&R)').
